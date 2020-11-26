@@ -1,7 +1,7 @@
 # are106-python
 A repository with the Python resources from Summer 2019 ARE 106 taught by Aleksandr Michuda
 
-Visit my page for materials for BITSS Transparency and Reproducibility in Python: [amichuda.com](www.amichuda.com)
+Visit my page for materials for BITSS Transparency and Reproducibility in Python: [amichuda.com](amichuda.com)
 
 ------
 
