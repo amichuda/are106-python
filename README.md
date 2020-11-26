@@ -3,6 +3,8 @@ A repository with the Python resources from Summer 2019 ARE 106 taught by Aleksa
 
 Visit my page for materials for BITSS Transparency and Reproducibility in Python: [amichuda.com](https://amichuda.github.io/)
 
+Also, thanks to my amazing TA: [Bret Stevens](https://are.ucdavis.edu/people/grad-students/phd/bret-stevens/)
+
 ------
 
 <p><strong>ARE 106: Econometric Theory and Applications</strong></p>
